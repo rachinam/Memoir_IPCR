@@ -1,0 +1,12 @@
+CP ----- (119.965,98.2)numbre of neighbor:2
+CP ----- (140.03,87.7)numbre of neighbor:1
+CP ----- (-17.078715837972172,42.024534382883175)numbre of neighbor:3
+CP ----- (9.6,-25.9)numbre of neighbor:0
+CP ----- (93.4,47.8)numbre of neighbor:0
+CP ----- (-34.2,35.0)numbre of neighbor:0
+CP ----- (-25.7,58.4)numbre of neighbor:0
+CP ----- (119.965,98.2)numbre of neighbor:2
+CP ----- (99.9,108.7)numbre of neighbor:1
+CP ----- (68.32390033860929,47.80686707196968)numbre of neighbor:3
+CP ----- (52.8,67.5)numbre of neighbor:0
+CP ----- (0.6953334258050572,2.0082701544247916)numbre of neighbor:3
